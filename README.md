@@ -1,2 +1,2 @@
 # eviweb
-An successor to eviweb.si
+A successor to eviweb.si
